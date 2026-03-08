@@ -25,7 +25,7 @@ namespace CronAPI.Presentation
             try
             {
                 // 1. 目标URL（可替换为任意网页）
-                string targetUrl = "https://www.baidu.com";
+                string targetUrl = "https://github.com/SueShonLey/CronAPI";
 
                 // 2. 调用系统默认浏览器打开URL
                 // ProcessStartInfo：配置进程启动参数
